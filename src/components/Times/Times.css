@@ -1,0 +1,25 @@
+.times{
+    position: relative;
+    text-align: center;
+    padding: 32px;
+}
+
+.times h3{
+    font-size: 32px;
+    border-bottom: 4px solid #28A745;
+    display: inline-block;
+    padding: 8px;
+}
+
+.times .colaborador{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 32px;
+    flex-wrap: wrap;
+}
+
+.times .input-color{
+    position: absolute;
+    top: 20px;
+    right: 50px;
+}

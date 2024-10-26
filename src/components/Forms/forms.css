@@ -1,0 +1,15 @@
+.forms{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin: 80px 50px;
+}
+
+.forms form{
+    background-color: #F2F2F2;
+    border-radius: 20px;
+    flex: 1;
+    padding: 36px 64px;
+    box-shadow: 8px 8px 16px rgba(0, 0, 0, 0.08);
+}
